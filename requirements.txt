@@ -1,0 +1,1 @@
+deltachat2[full]==2.58.0
